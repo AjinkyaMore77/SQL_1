@@ -1,2 +1,2 @@
 # SQL_1
-file taknar
+Sql basic codes
